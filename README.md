@@ -34,6 +34,24 @@ Prepared a case study on UPI fraud and created a prevention checklist.
 
 ---
 
+## Tools & Platforms Used
+
+- Canva (Infographic Design)
+- GitHub (Repository & Version Control)
+- LinkedIn (Professional Profile)
+- Google Forms (Quiz Creation)
+- HackerRank / CodeChef (Coding Practice)
+
+---
+
+## Key Learnings
+
+- Importance of digital literacy in everyday life
+- Building a professional online presence
+- Safe and responsible internet usage
+- Awareness of cyber threats and prevention
+- Writing professional emails
+
 ## Repository Structure
 - report/ → Project report
 - task-1-presentation/ → Infographic
@@ -46,3 +64,9 @@ Prepared a case study on UPI fraud and created a prevention checklist.
 
 ## Conclusion
 This project helped me understand digital literacy, online tools, and safe internet practices. It improved my communication skills and awareness about cyber threats.
+
+---
+
+Submission
+
+This repository is submitted via the VITyarthi portal as part of the course requirements.
